@@ -3,7 +3,7 @@
 # Matching System of Product Catalog
 
 This repository contains my solution to the take home assignment. The goal is to create an automatic process of matching unstructured product descriptions to the correct SKU.
-<img width="1194" height="202" alt="Screenshot 2025-11-26 at 11 33 13" src="https://github.com/user-attachments/assets/06ae21f0-a31c-4a35-8d3c-8f01348988cf" />
+![Flowchart](./flowchart.png)
 
 
 ## 1. Setup & Installation 
